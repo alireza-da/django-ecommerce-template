@@ -20,18 +20,18 @@ A django template for shopping and ecommerce services
 
 - Easy to use
 - General and Abstract
-- Feature 3
+- Feasible to develop
 
 ## Requirements
 
 - Python 3.12
-- Django 3.x
-- Other dependencies (e.g., PostgreSQL, Redis, etc.)
+- Django 4.2
+- MySQL (you can set your preferable database engine)
 
 ## Installation
 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourprojectname.git
+git clone https://github.com/alireza-da/django-ecommerce-template.git
 cd yourprojectname
